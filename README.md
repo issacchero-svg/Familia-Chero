@@ -1,5 +1,6 @@
-## 🧩 Estructura
-- `client/` → aquí estará la app (interfaz visual, mensajes, etc.)
-- `server/` → aquí estará el servidor (la parte que maneja los mensajes)
-- `LICENSE` → permisos del proyecto
-- `README.md` → este archivo con la guía
+# 💙 Familia Chero — Chat privado familiar
+
+**Familia Chero** es un proyecto simple creado para conectar a los hermanos de la familia Chero con un chat privado, estilo iMessage.
+
+## 🚀 Propósito
+Crear un espacio de comunicación exclusivo para los hermanos, usando un código único de acceso:
